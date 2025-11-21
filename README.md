@@ -9,4 +9,4 @@ A similar test session on a Fairphone3 powered by Android 13 showed an average p
 
 # 💪 Benchs
 
-Whether you are a student, engineer, or researcher, share your measurement data here.
+Whether you are a [student](students-benchs), engineer, or researcher, share your measurement data here.
