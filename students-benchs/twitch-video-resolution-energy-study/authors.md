@@ -1,9 +1,7 @@
-# Authors
+# Auteurs
 
-## Contributors
 - **GARCIA Matéo**
 - **MATTE Quentin**
 - **AIT YAHIATENE Mélissa**
 
-## Affiliation
-Université de Pau et des Pays de l’Ado
+*Université de Pau et des Pays de l’Adour (UPPA)*
